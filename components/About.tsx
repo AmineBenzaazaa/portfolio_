@@ -15,7 +15,7 @@ const About = () => {
         <p className="text-gray-300 text-center ">
           As a passionate software engineer, I thrive on the intricate dance
           between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
+          of Blockchain, my expertise centers around React Native, React JS where I seamlessly
           blend technology with innovation.
           <br />
           <br />

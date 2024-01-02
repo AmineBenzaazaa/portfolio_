@@ -14,7 +14,7 @@ const Projects = () => {
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
           <Link
-            href="https://web.hr/"
+            href="https://chaudhry-group-v22.vercel.app/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -27,9 +27,9 @@ const Projects = () => {
                 alt="WebHR Project"
               />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">WebHR</p>
+                <p className="text-white font-semibold text-xl">Chaudry Group</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed a modern UI website comprising more than 50 screens,
+                  Designed a modern UI website comprising more than 10 screens,
                   along with the integration of a blog using Next.js.
                 </p>
               </div>
