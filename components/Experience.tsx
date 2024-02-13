@@ -17,7 +17,7 @@ const Experience = () => {
           <p className="text-gray-300">MAY 2022 - PRESENT, HYDERABAD</p>
         </div>
         <p className="text-gray-300 pt-5">
-          Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
+          Currently, I am working on chaudhry Group Mobile Application, WebHR is a Cloud
           based Social HR Software for SMEs by Verge Systems Inc. WebHR is
           currently used in over 160 countries world wide by thousands of
           organizations to manage HR, As a React.js developer with 1.5 year of
