@@ -83,8 +83,8 @@ const Projects = () => {
                   Africa West Paper
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed showcase website using React.js.  <br/>AWP, is a company
-                  specializing  in the manufacturing and marketing <br/>hygiene  and
+                  Developed showcase website using React.js.  AWP, is a company
+                  specializing  in the manufacturing and marketing hygiene  and
                   paper wiping products.
                 </p>
               </div>
